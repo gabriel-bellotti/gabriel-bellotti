@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel 👋
+# Olá, eu sou Gabriel 
 
 Estudante de Sistemas de Informação (previsão de formatura: 2027)
 Migrando para a área de Dados — Python · SQL · Power BI
