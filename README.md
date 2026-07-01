@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Gabriel 👋
 
-<!--
-**gabriel-bellotti/gabriel-bellotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação (previsão de formatura: 2027)
+Migrando para a área de Dados — Python · SQL · Power BI
 
-Here are some ideas to get you started:
+## O que estou aprendendo agora
+- Python 
+- SQL — SQLZoo · Mode Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses
+Dados aplicados a economia, políticas públicas e tecnologia
+
+## Onde me encontrar
+LinkedIn: www.linkedin.com/in/gabriel-bellotti
